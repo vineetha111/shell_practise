@@ -1,5 +1,5 @@
 #!/bin/bash
-first=modi
+first=dinesh
 second=trump
 echo " my name is $first"
 echo " my name is $second"
